@@ -1,0 +1,9 @@
+dataset,rows,columns,duplicate_rows,missing_cells
+orders,99441,8,0,4908
+reviews,99224,7,0,145903
+customers,99441,5,0,0
+items,112650,7,0,0
+products,32951,9,0,2448
+payments,103886,5,0,0
+sellers,3095,4,0,0
+categories,71,2,0,0

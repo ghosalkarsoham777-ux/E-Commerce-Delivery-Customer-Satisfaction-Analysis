@@ -1,0 +1,11 @@
+metric,value,unit
+Unique orders,99441.0,count
+Delivered orders with valid dates,96470.0,count
+Late delivered orders,7826.0,count
+On-time or early delivered orders,88644.0,count
+Late delivery rate,8.11,%
+Average delivery time,12.56,days
+Average review score,4.09,out of 5
+Item sales value,13591643.7,dataset currency units
+Freight value,2251909.54,dataset currency units
+Payment value,16008872.12,dataset currency units

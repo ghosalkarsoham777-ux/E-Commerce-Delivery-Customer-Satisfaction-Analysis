@@ -1,0 +1,8 @@
+check,result
+Duplicate order IDs in orders,0
+Review scores outside 1-5,0
+Negative delivery durations,0
+Delivered orders used in delay analysis,96470
+Late orders,7826
+On-time or early orders,88644
+Delivery totals reconcile,True
