@@ -1,10 +1,10 @@
 # E-Commerce Delivery & Customer Satisfaction Intelligence
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes Brazilian e-commerce data to understand order trends, delivery performance, customer satisfaction, product categories, and business KPIs using Python.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas
@@ -13,7 +13,7 @@ This project analyzes Brazilian e-commerce data to understand order trends, deli
 - Seaborn
 - VS Code
 
-## 📊 Key Performance Indicators
+## Key Performance Indicators
 
 | Metric | Result |
 |---|---:|
@@ -24,7 +24,7 @@ This project analyzes Brazilian e-commerce data to understand order trends, deli
 | Late Delivery Review Score | 2.57 / 5 |
 | On-Time/Early Review Score | 4.29 / 5 |
 
-## 📈 Project Visualizations
+## Project Visualizations
 
 ### 1. Monthly Order Trend
 ![Monthly Order Trend](outputs/monthly_order_trend.png)
@@ -41,14 +41,14 @@ This project analyzes Brazilian e-commerce data to understand order trends, deli
 ### 5. State-Wise Delivery Performance
 ![State-Wise Delivery Performance](outputs/state_delivery_performance.png)
 
-## 💡 Key Insights
+## Key Insights
 
 - Approximately 8.11% of delivered orders were late.
 - Average delivery time was 12.56 days.
 - Late-delivered orders had an average review score of 2.57/5.
 - On-time or early-delivered orders had an average review score of 4.29/5.
 
-## ▶️ How to Run
+## How to Run
 
 1. Install the required libraries:
 
@@ -62,6 +62,6 @@ This project analyzes Brazilian e-commerce data to understand order trends, deli
    python ecommerce_analysis.py
    ```
 
-## 👨‍💻 Author
+## Author
 
 Soham Ghosalkar
